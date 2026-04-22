@@ -3,6 +3,7 @@
 ## 📌 Project Description
 This is a console-based Bank Management System developed using C++.  
 The application uses file handling to store customer data permanently and provides basic banking operations.
+C++ Bank Management System using file handling with deposit, withdrawal, and account management features
 
 ## 🚀 Features
 - Create Account
