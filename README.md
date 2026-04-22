@@ -24,6 +24,8 @@ The application uses file handling to store customer data permanently and provid
 
 ## 📂 File Used
 - `bank.dat` → stores all account details
+- ## 📸 Sample Output
+![Output](output.png)
 ## 🎯 Learning Outcomes
 - Understanding file handling in C++
 - Implementing banking operations
